@@ -145,7 +145,7 @@
     "@types/nprogress": "^0.2.3",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
-    "@vitejs/plugin-react": "^5.0.4",
+    "@vitejs/plugin-react": "^6.3.0",
     "@vitest/coverage-v8": "5.1.1",
     "cross-env": "^7.0.3",
     "dotenv": "^17.2.3",
